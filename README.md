@@ -75,11 +75,11 @@ http://pan.i8l.net/%E9%95%9C%E5%83%8F/DD%E9%95%9C%E5%83%8F/Win/win7emb_x86.tar.g
 
 win8.1 X64:
 
-http://pan.i8l.net/%E9%95%9C%E5%83%8F/DD%E9%95%9C%E5%83%8F/win8.1emb_x64.tar.gz
+http://pan.i8l.net/%E9%95%9C%E5%83%8F/DD%E9%95%9C%E5%83%8F/Win/win8.1emb_x64.tar.gz
 
 win10 X64:
 
-http://pan.i8l.net/%E9%95%9C%E5%83%8F/DD%E9%95%9C%E5%83%8F/win10ltsc_x64.tar.gz
+http://pan.i8l.net/%E9%95%9C%E5%83%8F/DD%E9%95%9C%E5%83%8F/Win/win10ltsc_x64.tar.gz
 
 以上镜像也是来自于萌咖博客
 
