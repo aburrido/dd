@@ -58,6 +58,15 @@ yum update
 wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/vipxkw/dd/master/InstallNET.sh' && bash InstallNET.sh -dd '[Windows dd包直连地址]'
 ```
 
+## 使用栗子：
+
+```shell
+#在你的机器上全新安装,如果你有VNC,可以看到全部过程.
+#在dd的过程中,会卡在分区的界面上,不会走进度条.完成后将会自动重启.
+
+wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/vipxkw/dd/master/InstallNET.sh' && bash InstallNET.sh -dd 'http://pan.i8l.net/%E9%95%9C%E5%83%8F/DD%E9%95%9C%E5%83%8F/Win/win7emb_x86.tar.gz'
+```
+
 这里我保存了3个镜像，win7 X86、win8.1 X64、WIN10 X64使用的onedrive
 
 win7 X86：
